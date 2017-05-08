@@ -1,2 +1,3 @@
 # camera
-实现基于Linux API直接操作framebuffer和UVC摄像头，将拍摄到的画面实时显示在开发板的屏幕上
+实现基于Linux API直接操作framebuffer和UVC摄像头，将拍摄到的画面实时显示在开发板的屏幕上(这是有过程记录的)
+还跟着网上博客_轻松移植mjpg-streamer到arm板子上，其中这是无过程记录的，看几篇博客即可了
